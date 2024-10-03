@@ -1,0 +1,556 @@
+
+body{
+	background: #feffd6c9;
+	font-family: 'Montserrat Alternates', sans-serif;
+	font-size: 16px;
+	margin: 0;
+	padding: 0;
+}
+
+div, p, input, header, a, form{
+	box-sizing: border-box;
+}
+
+button:focus{
+	outline: none;
+}
+h1,h2,h3,h4,h5,h6,p,div{
+	margin: 0;
+	padding: 0;
+}
+
+ul,li{
+	display: block;
+	padding: 0;
+	margin: 0;
+}
+.header{
+	padding-top: 60px;
+}
+.container{
+	margin: 0 auto;
+	width: 1200px;
+}
+.wrapper{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.logo{
+	display: flex;
+	align-items: center;
+}
+.text_logo{
+	font-family: 'Inspiration', cursive;
+    letter-spacing: 5px;
+    font-size: 45px;
+    line-height: 37px;
+    color: #000000;
+}
+.wrapper_nav{
+	display: flex;
+}
+
+.wrapper_nav ul{
+	
+	display: flex;
+	align-items: center;
+}
+
+.wrapper_nav li{
+	
+	margin-right: 20px;
+}
+
+#call_phone{
+	font-weight: 900;
+	color:#000000;
+	font-weight: 700;
+	letter-spacing: 0.095em;
+	font-size: 18px;
+	line-height: 18px;
+}
+
+.wrapper_nav a{
+font-size: 15px;
+letter-spacing: 3px;
+font-weight: 500;
+color: #000000;
+position: relative;
+display: block;
+text-decoration: none;
+padding: 15px 20px;
+overflow: hidden;
+transition: 1s all ease;
+}
+/* //////////////// */
+.wrapper_nav a::before{
+	background: #16187438;
+	content: "";
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	z-index: -1;
+	transition: all 0.4s ease;
+	border-radius: 60px;
+
+}
+.wrapper_nav a::before{
+	width: 0%;
+	height: 65%;
+  }
+  
+.wrapper_nav a:hover::before{
+	width: 100%;	 
+}
+ 
+
+
+/*offer*/	
+.wrapper_offer{
+	margin-top: 3%;
+	padding-bottom: 148px;
+	display: flex;
+	justify-content: space-between;
+}
+.offer_content{
+	width: 675px;
+	margin-top: 205px;	
+}
+.text_offer{
+	font-weight: 900;
+	font-size: 30px;
+	line-height: 55px;
+	letter-spacing: 0.03em;
+	color: #215D95;
+	margin-bottom: 20px;
+}	
+.sub_text_offer{
+	font-weight: 500;
+    font-size: 16px;
+    line-height: 23px;
+    letter-spacing: 0.10em;
+    color: #072E2B;
+}
+#offer-en{
+	font-size: 25px;
+}
+#set-link-en{
+	font-weight: 700;
+}
+.top-img img{
+	background: url(117379900_3113109462075595_1629716092498720180_n.jpg);
+	filter: drop-shadow(14px 16px 20px rgba(0, 0, 0, 0.6));
+	border-radius: 10px;
+	margin-top: 150px;
+}
+
+/* ABOUT US */
+.About{
+	padding:  80px 0px;
+	background: rgba(255, 242, 172, 0.45);
+}
+h3{
+	font-family: 'Inspiration', cursive;
+	font-size: 30px;
+	line-height: 37px;
+	letter-spacing: 0.4em;
+	text-align: center;
+}
+.Sub_About_us{
+	padding-top: 37px;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 156.3%;
+	letter-spacing: 0.1em;
+}
+.ribbon{
+	font-family: 'Inspiration', cursive;
+	font-weight: 600;
+	font-size: 20px;
+	letter-spacing: 0.3em;
+}
+/*Картины*/
+
+.our_picture{
+	padding-top: 136px;
+}
+.link{
+	padding-bottom: 35px;
+}
+.wrapper_picture{
+	justify-content: space-between;
+	display: flex;
+	flex-wrap: wrap;
+}
+.set_picture img{
+	width: 60%;
+	filter: drop-shadow(14px 11px 10px rgba(0, 0, 0, 0.55));
+	border-radius: 8px;
+}
+.set_picture{
+
+	width: 380px;
+	padding-bottom: 60px;
+} 
+.set_price{
+	padding-left: 15px;
+	font-weight: 600;
+    font-size: 20px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    letter-spacing: 3px;
+}
+/* ------------------------ */
+
+/* __________Маленькие картинки_________ */
+
+
+#MinSet img{
+	width:65%;
+}
+
+/* ____________________________________________________ */
+
+
+/* Кнопка */
+ 
+.set_link {
+	position: relative;
+	color: rgb(0, 0, 0);
+	font-size: 17px;
+	text-decoration: none;
+	padding: 5px 18px;
+	transition: 1s all ease;
+  }
+
+  .set_link::before{
+	background: #16187438;
+	content: "";
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	z-index: -1;
+	transition: all 0.6s ease;
+  }
+  .set_link::before{
+	width: 100%;
+	height: 0%;
+  }
+  .set_link:hover::before{
+	height: 100%;
+	border-radius: 50px;
+  }
+
+/* ============== */
+ 
+/*footer*/
+
+.footer{
+	background: #2C2B2B;
+	padding-bottom: 47px;
+	margin-top: 120px /*убрать*/
+}
+.wrapper_footer_nav{
+	display: flex;
+	padding-top: 30px;
+}
+.footer_client{
+	margin-right: 110px;
+}
+.footer_clients{
+	font-weight: 400;
+	font-size: 18px;
+	letter-spacing: 0.06em;
+	color: #999999;
+	margin-bottom: 20px;
+}
+.mobile_phone,.footer_email,.conf{
+	font-weight: 400;
+	font-size: 15px;
+	line-height: 16px;
+	letter-spacing: 0.205em;
+	color: #fff;
+	margin-bottom: 20px;
+	transition-duration: 1s;
+}
+.mobile_phone :hover, .footer_email:hover, .conf:hover{
+	color: #f5d312;
+}
+.politics a{
+	text-decoration: none;	
+}
+
+.menu_open{ /*меню бургер*/
+	background: none;
+	border: none;
+	display: none;
+}
+@media all and (max-width: 1240px){
+	.set_picture{
+		width: 373px;
+	}
+}
+@media all and (max-width: 1240px){
+	.container{
+		width: 1120px;
+		margin: 0 auto;
+	}
+	.wrapper_nav a{
+		padding: 15px 10px;
+	}
+	.wrapper_nav li{
+		margin: 0;
+	}
+	.wrapper_footer_nav{
+		flex-wrap: wrap;
+		display: block;
+	}
+	.text_offer{
+		font-size: 34px;
+		letter-spacing: 0.02em;
+	}
+	.sub_text_offer{
+		font-size: 15px;
+	}
+	.wrapper_payment{
+		margin: 0;
+		margin-top: 30px;
+	}
+	.conf,.footer_clients,.payment_link{
+		font-size: 18px;
+	}
+	.conf{
+		margin-top: 30px;
+	}
+}
+@media all and (max-width: 1150px){
+	.container{
+		width: 1080px;
+		margin: 0 auto;
+	}
+	.sub_text_offer{
+		font-size: 15px;
+	}
+	.top-img img{
+		width: 95%;
+	}
+	.set_picture{
+		width: 360px;
+	}
+}
+@media all and (max-width: 1090px){
+	.container{
+		width: 880px;
+		margin: 0 auto;
+	}
+	.text_logo{
+		font-size: 30px;
+	}
+	.text_offer{
+		font-size: 25px;
+		line-height: 30px;     
+	}
+	.top-img{
+		margin: 0;
+	}
+	.top-img img{
+		margin-top: 100px;
+		width: 80%;
+		display: block;
+		margin-left: 50px;
+	}
+	.offer_content{
+    	margin-top: 130px;
+	}
+	.set_picture {
+		width: 293px;
+	}
+}
+@media all and (max-width: 930px){
+	.container{
+		width: 800px;
+	}
+	.text_logo{
+		font-size: 20px;
+	}
+	.wrapper_nav a,#call_phone{
+		font-size: 15px;
+	}
+	.offer_content{
+		margin-top: 74px;
+	}
+	.top-img img {
+		margin-top: 73px;
+	}
+	.sub_text_offer{
+		line-height: 170%;
+	}
+	.set_picture {
+		width: 260px;
+	}
+}
+@media all and (max-width: 830px){
+	.container{
+		width: 730px;
+	}
+	.wrapper_nav a,#call_phone{
+		font-size: 12px;
+	}
+	.text_offer{
+		font-size: 21px;
+	}
+	.wrapper_footer_nav{
+		display: block;
+	}
+	.conf{
+		margin-top: 30px;
+	}
+	.set_picture {
+		width: 220px;
+	}
+	
+}	 
+@media all and (max-width: 750px){
+	.container{
+		width: 550px;
+		padding: 0 10px	;
+	}
+	.text_logo {
+    font-size: 45px;
+}
+	.wrapper_nav ul{
+		display: none;
+	}
+	.menu_open{
+		margin-left: 20px;
+		display: block; /*для того чтобы гамбергер появился*/
+	}
+	.header .show-menu{ /*при нажатии на бургер показывает меню*/
+		display: block;
+		position: absolute;
+		background: rgba(0, 0, 0, 0.78);
+		opacity: 100%;
+		left: 0;
+		top: 0;
+		width: 20%;
+		padding: 40px 20px 20px 40px;
+	}
+	.header .show-menu a,#call_phone{
+		color:#fff;
+	}
+
+	.text_offer{
+    	font-size: 34px;
+    	margin-bottom: 30px;
+	}
+	.wrapper_offer{
+		flex-wrap: wrap;
+	}
+	.top-img img{
+		margin: 0;
+		margin-top: 30px;
+		width: 100%;
+	}
+	.wrapper_picture{
+		justify-content: space-between;
+}
+	}
+	.wrapper_footer_nav{
+		 flex-wrap: wrap;
+	}
+	.politics{
+		margin-top: 30px;
+	}
+@media all and (max-width: 560px){
+	.container{
+		width: 470px;
+		padding: 10px;
+	}
+	
+	.menu_open{
+		margin: 0;
+	}
+	.top-img img{
+		width: 100%;
+	}
+	.sub_text_offer{
+		line-height: 163%;
+		width: 100%;
+	} 
+	.set_picture img{
+		width: 100%;
+		margin: 0;
+		padding: 0;
+	}
+	
+	.link{
+		margin-top: 120px;
+	}
+	.watch .link{
+		font-size: 20px;
+	}
+	.header .show-menu{
+		width: 30%;
+	}
+	.header .show-menu a{
+		font-size: 18px;
+	}
+	.menu_open{
+		display: block;
+	}
+}
+@media all and (max-width: 491px){
+	.container{
+	width: 368px;
+    padding: 10px;
+	}
+	.text_logo {
+		font-size: 33px;
+	}
+	.header .show-menu a {
+		font-size: 15px;
+	}
+	.header .show-menu {
+		width: 36%;
+	}
+	.header .show-menu {
+		padding: 16px 40px 17px 35px;
+	}
+	.text_offer{
+		font-size: 25px;
+	}
+	.set_picture {
+		width: 350px;
+	}
+	 
+	 
+}
+@media all and (max-width: 383px){
+	.About{
+		background: none;
+	}
+	 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,821 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"margin-right\tproperty"
+			],
+			[
+				"o",
+				"outline\tproperty"
+			],
+			[
+				"le",
+				"left\tproperty"
+			],
+			[
+				"m",
+				"max-width\tproperty"
+			],
+			[
+				"bor",
+				"border-style\tproperty"
+			],
+			[
+				"li",
+				"list-style\tproperty"
+			],
+			[
+				"ul",
+				"text-underline-position\tproperty"
+			],
+			[
+				"mr",
+				"margin\tproperty"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"img",
+				"border-image-source\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"mag",
+				"margin\tproperty"
+			],
+			[
+				"ut",
+				"outline\tproperty"
+			],
+			[
+				"r",
+				"rgb()\tbackground"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"fle",
+				"flex-wrap\tproperty"
+			],
+			[
+				"lis",
+				"list-style\tproperty"
+			],
+			[
+				"borDEr",
+				"border-style\tproperty"
+			],
+			[
+				"n",
+				"unset\tdirection"
+			],
+			[
+				"tra",
+				"transition-duration\tproperty"
+			],
+			[
+				"boe",
+				"border-radius\tproperty"
+			],
+			[
+				"bordr",
+				"border-radius\tproperty"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"i",
+				"inline\tdisplay"
+			],
+			[
+				"an",
+				"animation-name\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"0",
+				"001.jpg\tw:270 h:184"
+			],
+			[
+				"s",
+				"set_004/"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"text",
+				"text-shadow\tproperty"
+			],
+			[
+				"back",
+				"background-repeat\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"lie",
+				"line-height\tproperty"
+			],
+			[
+				"tr",
+				"transition-duration\tproperty"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"ls",
+				"letter-spacing\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"d",
+				"delivery.html"
+			],
+			[
+				"ts",
+				"text-shadow\tproperty"
+			],
+			[
+				"D",
+				"display\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"t",
+				"translateX()\ttransform"
+			],
+			[
+				"trr",
+				"transform\tproperty"
+			],
+			[
+				"bo",
+				"border-bottom\tproperty"
+			],
+			[
+				"bw",
+				"border-width\tproperty"
+			],
+			[
+				"mt",
+				"margin-top\tproperty"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"mrgin",
+				"margin-right\tproperty"
+			],
+			[
+				"br",
+				"border-radius\tproperty"
+			],
+			[
+				"coor",
+				"color\tproperty"
+			],
+			[
+				"td",
+				"text-decoration\tproperty"
+			],
+			[
+				"mat",
+				"margin-top\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"bb",
+				"border-bottom\tproperty"
+			],
+			[
+				"borr",
+				"border-right\tproperty"
+			],
+			[
+				"colu",
+				"column-gap\tproperty"
+			],
+			[
+				"colum",
+				"column-count\tproperty"
+			],
+			[
+				"col",
+				"column-gap\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"ta",
+				"text-align\tproperty"
+			],
+			[
+				"pd",
+				"padding\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"borde",
+				"border-radius\tproperty"
+			],
+			[
+				"dec",
+				"direction\tproperty"
+			],
+			[
+				"it",
+				"align-items\tproperty"
+			],
+			[
+				"in",
+				"inline-flex\tdisplay"
+			],
+			[
+				"margint",
+				"margin-top\tproperty"
+			],
+			[
+				"margin-",
+				"margin-left\tproperty"
+			],
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"margon",
+				"margin-top\tproperty"
+			],
+			[
+				"fot",
+				"font-weight\tproperty"
+			],
+			[
+				"magin",
+				"margin\tproperty"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"bar",
+				"background-color\tproperty"
+			],
+			[
+				"fo",
+				"font-weight\tproperty"
+			],
+			[
+				"bot",
+				"border-top\tproperty"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"txt",
+				"text-align\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"tet",
+				"text-align\tproperty"
+			],
+			[
+				"paddi",
+				"padding-top\tproperty"
+			],
+			[
+				"paddin",
+				"padding-left\tproperty"
+			],
+			[
+				"paddni",
+				"padding-left\tproperty"
+			],
+			[
+				"bca",
+				"background\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"he",
+				"header-image"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"header",
+				"header-image"
+			],
+			[
+				"f",
+				"float\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"wit",
+				"border-image-width\tproperty"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"texr",
+				"text-decoration\tproperty"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"lo",
+				"logo"
+			],
+			[
+				"po",
+				"portfolio_image"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"ima",
+				"images"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"cl",
+				"clear\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"border-",
+				"border-bottom\tproperty"
+			],
+			[
+				"tesx",
+				"text-align-last\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"texta",
+				"text-align\tproperty"
+			],
+			[
+				"font-st",
+				"font-style\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"l",
+				"link\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				":",
+				":$ - EOF"
+			],
+			[
+				"colorcoder",
+				"Tweak Colorcode to current color scheme"
+			],
+			[
+				"color de",
+				"Tweak Colorcode to current color scheme"
+			],
+			[
+				"live",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"ProxyHandler()) );open(os.path.join(ipp, pf),'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"'Package Control.sublime-package'; ipp = sublime.installed_packages_path (); urllib.request.install_opener (urllib.request.build_opener (urllib.request.ProxyHandler ())); open (os.path.join (ipp, pf), 'wb'). write (urllib.request.urlopen ('http://sublime.wbond.net/' + pf.replace ('', '% 20') ))",
+			"Package Control.sublime-package'; ipp = sublime.installed_packages_path (); urllib.request.install_opener (urllib.request.build_opener (urllib.request.ProxyHandler ())); open (os.path.join (ipp, pf), 'wb'). write (urllib.request.urlopen ('http://sublime.wbond.net/' + pf.replace ('', '% 20') ))",
+			"urllib.request, os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path (); urllib.request.install_opener (urllib.request.build_opener (urllib.request.ProxyHandler ())); open (os.path.join (ipp, pf), 'wb'). write (urllib.request.urlopen ('http://sublime.wbond.net/' + pf.replace ('', '% 20') ))",
+			"urllib.request, os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path (); urllib.request.install_opener (urllib.request.build_opener (urllib.request.ProxyHandler ())); open (os.path.join (ipp, pf), 'wb'). write (urllib.request.urlopen ('http://sublime.wbond.net/' + pf.replace ('', '% 20') )).читать())",
+			"импорт urllib.request, os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path (); urllib.request.install_opener (urllib.request.build_opener (urllib.request.ProxyHandler ())); open (os.path.join (ipp, pf), 'wb'). write (urllib.request.urlopen ('http://sublime.wbond.net/' + pf.replace ('', '% 20') )).читать())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/style/delivery.css",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/style/style.css",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/index.html",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/delivery.html",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/style/form.css",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/the form/pay.php",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/the form/form.php",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/style/for_all_pictures_info_img.css",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/information_picture_002.html",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/information_picture_001.html",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/information_picture_003.html",
+		"/C/Users/valiko/Desktop/бургер/index.html",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/js/main.js",
+		"/C/Users/valiko/Desktop/бургер/js/main.js",
+		"/C/Users/valiko/Desktop/бургер/fail.css",
+		"/C/Users/valiko/Desktop/бургер/burger.css",
+		"/C/Users/valiko/Desktop/бургер/fail.html",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/information_picture_006.html",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/information_picture_008.html",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/information_picture_007.html",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/information_picture_005.html",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/information_picture_004.html",
+		"/C/Users/valiko/Desktop/for_all_pictures_info_img.css",
+		"/C/Users/valiko/Desktop/forma.php",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/contacts.html",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/the form/mail.php",
+		"/C/Users/valiko/Desktop/форма/forma.php",
+		"/C/Users/valiko/Desktop/форма/thank_you.php",
+		"/C/Users/valiko/Desktop/форма/mail.php",
+		"/C/Users/valiko/Desktop/php-script-feedback/index.php",
+		"/C/Users/valiko/Desktop/php-script-feedback/readme.html",
+		"/C/Users/valiko/Desktop/php-script-feedback/styling.css",
+		"/C/Users/valiko/Desktop/php-script-feedback/config.php",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/the form/thank_you.php",
+		"/C/Users/valiko/Desktop/форма/index.html",
+		"/C/Users/valiko/Desktop/форма/style.css",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/the form/n_form.php",
+		"/C/Users/valiko/Desktop/форма/testform/index.php",
+		"/C/Users/valiko/Desktop/форма/testform/submit.php",
+		"/C/Users/valiko/Desktop/форма/testform/thankyou.php",
+		"/C/Users/valiko/Desktop/форма/thanckyou.php",
+		"/C/Users/valiko/Desktop/форма/submit.php",
+		"/C/Users/valiko/Desktop/форма/index.php",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/form.html",
+		"/C/Users/valiko/Desktop/test/index.html",
+		"/C/Users/valiko/Desktop/test/style.css",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/inform-nartisi.html",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/style/narcisi.css",
+		"/C/Users/valiko/Desktop/js/index.html",
+		"/C/Users/valiko/Desktop/js/main.js",
+		"/C/Users/valiko/Desktop/js/style.css",
+		"/C/Users/valiko/Desktop/слайдер/сладер 2/style.css",
+		"/C/Users/valiko/Desktop/слайдер/сладер 2/index.html",
+		"/C/Users/valiko/Desktop/слайдер/сладер 2/js/slider.js",
+		"/C/Users/valiko/Desktop/слайдер/сладер 2/slider.js",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/шкатулки/maki.html",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/шкатулки/style/information for all casket.css",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/шкатулки/style/info-maki.css",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/шкатулки/pink.html",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/шкатулки/white.html",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/шкатулки/style/white.css",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/шкатулки/style/pink.css",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/style/шкатулки/maki.css",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/maki",
+		"/C/Users/valiko/Desktop/слайдер/slider.css",
+		"/C/Users/valiko/Desktop/слайдер 2/slider.html",
+		"/C/Users/valiko/Desktop/слайдер 2/clider.css",
+		"/C/Users/valiko/Desktop/слайдер 2/slider",
+		"/C/Users/valiko/Desktop/слайдер/slider.html",
+		"/C/Users/valiko/Desktop/test/index.php",
+		"/C/Users/valiko/Desktop/test/forml.css",
+		"/C/Users/valiko/Desktop/test/form.html",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/confidentiality.html",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/style/contacts.css",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/style/confidentiality.css",
+		"/C/Users/valiko/Desktop/css/uikit.min.css",
+		"/C/Users/valiko/Desktop/css/uikit.css",
+		"/C/Users/valiko/Desktop/js/uikit-icons.js",
+		"/C/Users/valiko/Desktop/сайты/пример с увеличением картинки/dist/css/lightbox.css",
+		"/C/Users/valiko/Desktop/сайты/пример с увеличением картинки/dist/css/lightbox.min.css",
+		"/C/Users/valiko/Desktop/сайты/пример с увеличением картинки/dist/js/lightbox-plus-jquery.js",
+		"/C/Users/valiko/Desktop/сайты/пример с увеличением картинки/style/style.css",
+		"/C/Users/valiko/Desktop/сайты/пример с увеличением картинки/index.html",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/js/1.js",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/js/slider.js",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/js/autoslider.js",
+		"/C/Users/valiko/Desktop/сайты/сайт с картинами/pictures.html",
+		"/C/Users/valiko/Desktop/сайты/Новая папка/style/style.css",
+		"/C/Users/valiko/Desktop/сайты/Новая папка/index.html",
+		"/C/Users/valiko/Desktop/сайты/Новая папка/index/style/style.css",
+		"/C/Users/valiko/Desktop/wayup/style/main.css",
+		"/C/Users/valiko/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Users/valiko/AppData/Roaming/Sublime Text 3/Packages/User/colorcoder.sublime-settings",
+		"/C/Users/valiko/AppData/Roaming/Sublime Text 3/Packages/Colorcoder/colorcoder.sublime-settings",
+		"/C/Users/valiko/Desktop/wayup/index.html",
+		"/C/Users/valiko/Desktop/test/style/main.css",
+		"/C/Users/valiko/Desktop/Anton/index.html",
+		"/C/Users/valiko/Desktop/Anton/style/style.css",
+		"/C/Users/valiko/Desktop/Anton/index.htm",
+		"/C/Users/valiko/Desktop/Anton/style/stye.css",
+		"/C/Users/valiko/Desktop/Anton/style/main.css",
+		"/C/Users/valiko/Desktop/Anton/верстка/style/main.css",
+		"/C/Users/valiko/Desktop/Anton/верстка/index.html",
+		"/E/alex/test/style/style.css",
+		"/E/alex/test/index.html",
+		"/C/Users/valiko/Desktop/test/style/style.css",
+		"/E/games/GTA 120K BY DAPO SHOW/GTA 120K BY DAPO SHOW/moonloader/SMIHelper.luac",
+		"/E/alex/test/style/styla.css",
+		"/E/alex/single test/style/main.css",
+		"/E/alex/single test/index.html",
+		"/E/alex/juice/style/main.css",
+		"/E/alex/juice/index.html",
+		"/E/alex/index.html",
+		"/E/alex/test site/index.html",
+		"/E/alex/test site/css/style.css",
+		"/E/alex/lapkin/work/css/main.css",
+		"/E/alex/lapkin/work/index.html",
+		"/D/test site/css/style.css",
+		"/D/html & css Александр Попов/html & css Александр Попов/сайт2/css/style.css",
+		"/D/test site/index.html",
+		"/D/html & css Александр Попов/html & css Александр Попов/сайт2/css/reset.css",
+		"/D/html & css Александр Попов/html & css Александр Попов/menu/css/style.css",
+		"/D/html & css Александр Попов/html & css Александр Попов/menu/css/reset.css",
+		"/D/my test site/css/float.css",
+		"/D/my test site/float.html",
+		"/D/my test site/index.html",
+		"/D/my test site/css/style.css",
+		"/D/my test site/form.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "information_picture_008.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\valiko\\Desktop\\сайты\\сайт с картинами\\style\\style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 63.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

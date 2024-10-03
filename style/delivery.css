@@ -1,0 +1,172 @@
+
+
+span{
+	margin-right: 30px;
+	color:#3E5F9F;
+	font-weight: 700;
+	letter-spacing: 0.095em;
+	font-size: 15px;
+	line-height: 18px;
+}
+
+.wrapper_nav a{
+	text-decoration: none;
+	font-size: 15px;
+	line-height: 18px;
+	color: #000;
+	transition-duration: 1.2s;
+}
+
+/*section pay*/
+
+.how-pay{
+	font-size: 35px;
+	font-weight: 900;
+	color: #09115F;
+	margin-top: 120px;
+	margin-bottom: 20px;	
+}
+
+.sub-class{
+	font-size: 18px;
+	margin-bottom: 20px;
+}
+#sub-en{
+	margin-top: 20px;
+}
+.wrapper-cash-pay{
+	margin-left: 30px;	
+}
+.cash-pay{
+	font-size: 20px;
+	font-weight: 700;
+	margin-bottom: 20px;	
+}
+.wrapper-pay{
+	display: flex;	
+	margin-bottom: 50px;
+}
+
+.important{
+	border: 2px solid #710707;
+	border-radius: 20px;	
+	padding: 10px;
+	margin-bottom: 60px;
+	font-weight: 700;
+	font-size: 20px;	
+}
+
+/*delivery*/
+
+h1{
+	font-size: 30px;
+	font-weight: 900;
+	margin-top: 120px;
+}
+h2{
+	margin-top: 60px;
+}
+.sub-text-delivery{
+	margin-top: 20px;
+	line-height: 1.5em;
+	font-weight: 700;
+	color: #4e4d4d;
+}
+.duties{
+	margin-top: 30px;
+}
+.list-delivery li{
+	padding-bottom: 10px;
+}
+@media all and (max-width: 1220px){
+	.container{
+		width: 1100px;
+	}
+}
+@media all and (max-width: 1141px){
+	.container{
+		width:1000px;
+	}
+}
+@media all and (max-width: 1044px){
+	.container{
+		width: 950px;
+	}
+	.wrapper_nav li{
+		margin-right: 28px;
+	}
+}
+@media all and (max-width: 1002px){
+	.container{
+		width: 850px;
+	}
+	#call_phone{
+		margin-right: 2px;
+	}
+}
+@media all and (max-width: 913px){
+	.container{
+		width: 800px;
+	}
+	.wrapper_nav li{
+		margin-right: 15px;
+	}
+}
+@media all and (max-width: 900px){
+	.container{
+		width: 747px;
+	}
+	.text_logo{
+		font-size: 20px;
+	}
+}
+@media all and (max-width: 772px){
+	.how-pay{
+		font-size: 30px;
+	}
+	.important{
+		font-size: 17px;
+	}
+}
+@media all and (max-width: 750px){
+	.container{
+		width: 550px;
+	}
+	.wrapper_nav ul{
+		display: none;
+	}
+}
+@media all and (max-width: 575px){
+	.container{
+		width: 400px;
+	}
+	.how-pay{
+		font-size: 22px;
+	}
+	.sub-class{
+		font-size: 15px;
+	}
+	.important{
+		font-size: 15px;
+	}
+	h1 {
+		font-size: 35px;
+	}
+}
+@media all and (max-width: 418px){
+	.container{
+		width: 320px;
+	}
+	.wrapper-pay{
+		flex-wrap: 	wrap;
+	}
+	h1{
+		font-size: 22px;
+	}
+}
+
+
+
+
+
+

@@ -1,0 +1,135 @@
+.important{
+	font-size: 20px;
+	font-weight: 700;
+	border: solid 2px;
+	color: #fff;
+	padding: 20px;
+	background: linear-gradient(90.98deg, #066C7D 3.67%, #2B6A9D 68.05%, #0B357A 102.55%);
+	border-radius: 20px;
+	margin-top: 60px;
+}
+.wrapper_form{
+	margin-top: 120px;
+	display: flex;
+}
+.form_text{
+	width: 470px;
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 176.6%;
+	color: #000;
+}
+.form{
+	margin-left: 235px;
+}
+.form_form{
+	width: 308px; 
+	border-radius: 10px;
+	padding: 11px;
+	margin-bottom: 20px;
+	font-size: 15px;
+}
+.btn input a{
+	text-decoration: none;
+	border-style: none;
+	color: #fff;
+	 display: block;
+	font-size: 15px;
+	 }
+.btn input{
+	background: linear-gradient(90.98deg, #66CCDD 3.67%, #2B6A9D 68.05%, #0B357A 102.55%);
+	border-radius: 20px;
+	width: 308px;
+	height: 40px;
+ 	border: none;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 0.195em;
+	align-items: center;
+	transition-duration: 0.5s;
+}
+.btn input:hover{
+	box-shadow: 2px 2px 20px #3C0B7A;	
+}
+.for-media{
+	display: none;
+}
+@media all and (max-width: 1245px){
+	.container{
+		width: 1100px;
+	}
+}
+@media all and (max-width: 1143px){
+	.container{
+		width: 950px;
+	}
+	.form{
+		margin-left: 165px;
+	}
+}
+@media all and (max-width: 990px){
+	.container{
+		width: 800px;
+	}
+	.form{
+		margin-left: 25px;
+	}
+	.wrapper_nav li{
+		margin-right: 15px;
+	}
+	#call_phone{
+		margin-right: 10px;
+	}
+}
+@media all and (max-width: 860px){
+	.container{
+		width: 700px;
+	}
+	.wrapper_form{
+		flex-wrap: wrap;
+		margin-top: 60px;s
+	}
+	.form_text{
+		width: auto;
+	}
+	.form_text{
+		display: none;
+	}
+	.for-media{
+		display: block;
+		margin-bottom: 60px;
+	}
+	.form{
+		display: grid;
+		margin: auto;
+	}
+}
+@media all and (max-width: 746px){
+	.container{
+		width: 550px;
+	}
+	.important{
+		font-size: 18px;
+	}
+}
+@media all and (max-width: 578px){
+	.container{
+		width: 520px;
+	}
+	.important{
+		font-size: 17px;
+	}
+}
+@media all and (max-width: 534px){
+	.container{
+		width: 420px;
+	}
+}
+@media all and (max-width: 434px){
+	.container{
+		width: 320px;
+	}
+	.important{
+		font-size: 15px;
+	}
+}

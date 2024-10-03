@@ -1,0 +1,94 @@
+
+.wrapper-politic{
+	text-align: center;
+	font-size: 32px;
+	font-weight: 700;
+	margin-top: 80px;
+	color: #09115F;
+	margin-bottom: 90px;	
+}
+
+.offer-text{
+	font-weight: 700;
+	padding-bottom: 15px;
+	padding-top: 20px;
+}
+
+@media all and (max-width: 1337px){
+	.container{
+		width: 1200px;
+	}
+}
+@media all and (max-width: 1232px){
+	.container{
+		width: 1100px;
+	}
+}
+
+@media all and (max-width: 1147px){
+	.container{
+		width: 1000px;
+	}
+}
+
+@media all and (max-width: 1059px){
+	.container{
+		width: 950px;
+	}
+}
+@media all and (max-width: 982px){
+	.container{
+		width: 850px;
+	}
+	.text_logo{
+		font-size: 20px;
+	}
+	.wrapper_nav li{
+		margin-right: 14px;
+	}
+}
+@media all and (max-width: 867px){
+	.container{
+		width: 750px;
+	}
+	#call_phone{
+		margin: 0;
+	}
+}
+@media all and (max-width: 787px){
+	.container{
+		width: 650px;
+	}
+	.wrapper_nav ul{
+		display: none;
+	}
+}
+@media all and (max-width: 669px){
+	.container{
+		width: 550px;
+	}
+}
+@media all and (max-width: 581px){
+	.container{
+		width: 500px;
+	}
+}
+@media all and (max-width: 509px){
+	.container{
+		width: 450px;
+	}
+}
+@media all and (max-width: 445px){
+	.container{
+		width: 320px;
+	}
+	.wrapper-politic{
+		font-size: 25px;
+		margin-top: 60px;
+	}
+}
+
+
+
+
+

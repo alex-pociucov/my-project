@@ -1,0 +1,110 @@
+
+/*wrapper-contacts*/
+.wrapper-cont{
+	display: flex;
+	justify-content: space-between;
+}
+.text-contacts{
+	margin-top: 200px;
+	font-size: 30px;
+	font-weight: 700;
+	color: #09115F;
+	letter-spacing: 0.04em;
+	margin-bottom: 60px;	
+}
+.wrapper-info{
+	margin-bottom: 40px;
+}
+.nav-img{
+	padding-top: 10px;
+}
+.wrapper-nav{
+	display: flex;
+}
+.wrapper-text-info p{
+	color: #666;
+	margin-left: 30px;
+	line-height: 25px;
+
+}
+.art-it{
+	width: 600px;
+    margin-top: 324px;
+    line-height: 25px;
+    font-size: 18px;
+    font-weight: 400
+}
+@media all and (max-width: 1231px){
+	.container{
+		width: 1100px;
+	}
+	.text-contacts{
+		margin-top: 200px;
+	}
+}
+@media all and (max-width: 1132px){
+	.container{
+		width: 1050px;
+	}
+}
+@media all and (max-width: 1073px){
+	.container{
+		width: 950px;
+	}
+	.art-it{
+		display: none;
+	}
+}
+@media all and (max-width: 1002px){
+	.container{
+		width: 850px;
+	}
+	.text_logo{
+		font-size: 19px;
+	}
+}
+@media all and (max-width: 892px){
+	.container{
+		width: 750px;
+	}
+}
+@media all and (max-width: 781px){
+	.container{
+		width: 650px;
+	}
+	#call_phone{
+		margin: 0;
+	}
+	.wrapper_nav li{
+		margin-right: 10px;
+	}
+}
+@media all and (max-width: 716px){
+	.container{
+		width: 600px;
+	}
+}
+@media all and (max-width: 647px){
+	.container{
+		width: 500px;
+	}
+}
+@media all and (max-width: 509px){
+	.container{
+		width: 430px;
+	}
+}
+@media all and (max-width: 456px){
+	.container{
+		width: 320px;
+	}
+}
+
+
+
+
+@media all and (max-width: px){
+	.container{
+		width: px;
+	}
+}
